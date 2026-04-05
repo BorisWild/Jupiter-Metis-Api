@@ -1,7 +1,10 @@
 # Market Cache For Jupiter Metis
 
 This is a core part of the custom cache for USDC, USDT, and WSOL arbitrage. You can continue adding more markets, especially if you use intermediate tokens.
-This JSON file contains 176 DEX markets:
+This [JSON file](market-cache.json) contains 176 DEX markets:
+
+>[!TIP]
+>Need a custom market cache for specific tokens? https://t.me/SolanaArbitrager
 
 ### Meteora DLMM 43 markets
 `LBUZKhRxPF3XUpBCjp4YzTKgLccjZhTSDM9YuVaPwxo`
@@ -213,6 +216,3 @@ This JSON file contains 176 DEX markets:
 `SSwpkEEcbUqx4vtoEByFjSkhKdCT862DNVb52nZg1UZ`
  - USDC-USDT 1
 
-
->[!TIP]
->Need a custom markets cache for any tokens? https://t.me/SolanaArbitrager
