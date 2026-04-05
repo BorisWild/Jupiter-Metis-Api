@@ -1,4 +1,82 @@
 [
+   {
+    "pubkey": "4rJggoVMajEUtipev1XhSMjESYk8Zibz6CDHPtUe1mem",
+    "owner": "goonuddtQRrWqqn5nFyczVKaie28f3kDkHWkHtURSLE",
+    "params": {
+      "addressLookupTableAddress": "2NQsgjsKWLghBLqnGyCuLKAPvwdvKWNtbbXE8Rjn2CBJ",
+      "routingGroup": 3,
+      "swapAccountSize": {
+        "account_compressed_count": 11,
+        "account_len": 13,
+        "account_metas_count": 13
+      }
+    }
+  },
+  {
+    "pubkey": "EEUNhHsRoUVgJUFpkupmdF4v7uLUw1zhYLp7u9s8zFqG",
+    "owner": "goonuddtQRrWqqn5nFyczVKaie28f3kDkHWkHtURSLE",
+    "params": {
+      "addressLookupTableAddress": "4Mf6gV4SqbHVXE5h92dTDnTPWeKioMVmpupk6HBUye2L",
+      "routingGroup": 3,
+      "swapAccountSize": {
+        "account_compressed_count": 11,
+        "account_len": 13,
+        "account_metas_count": 13
+      }
+    }
+  },
+  {
+    "pubkey": "GMCJvYGf5Ex2ARiMquaBDqU6iKM8uiEQkB8jCnoNfHpC",
+    "owner": "goonuddtQRrWqqn5nFyczVKaie28f3kDkHWkHtURSLE",
+    "params": {
+      "addressLookupTableAddress": "DBmHWCVEGCzZ3zDNr9WzRaMmSqCjcixMh78imXfno9qJ",
+      "routingGroup": 3,
+      "swapAccountSize": {
+        "account_compressed_count": 11,
+        "account_len": 13,
+        "account_metas_count": 13
+      }
+    }
+  },
+  {
+    "pubkey": "FLckHLGMJy5gEoXWwcE68Nprde1D4araK4TGLw4pQq2n",
+    "owner": "TessVdML9pBGgG9yGks7o4HewRaXVAMuoVj4x83GLQH",
+    "params": {
+      "addressLookupTableAddress": "9AKCoNoAGYLW71TwTHY9e7KrZUWWL3c7VtHKb66NT3EV",
+      "routingGroup": 3,
+      "swapAccountSize": {
+        "account_compressed_count": 10,
+        "account_len": 12,
+        "account_metas_count": 12
+      }
+    }
+  },
+  {
+    "pubkey": "51FQwjrvo8J8zXUaKyAznJ5NYpoiTCuqAqCu3HAMB9NZ",
+    "owner": "BiSoNHVpsVZW2F7rx2eQ59yQwKxzU5NvBcmKshCSUypi",
+    "params": {
+      "addressLookupTableAddress": "7Q3aXAn6ctJ3Nz5ejSCgY9aM4E7AYqMCUVSfRcjn7Qev",
+      "routingGroup": 3,
+      "swapAccountSize": {
+        "account_compressed_count": 7,
+        "account_len": 9,
+        "account_metas_count": 9
+      }
+    }
+  },
+  {
+    "pubkey": "FC9pWtfdtbyGZ5WHTLneoMSUx6jmTDgqKaxDcm2trsND",
+    "owner": "BiSoNHVpsVZW2F7rx2eQ59yQwKxzU5NvBcmKshCSUypi",
+    "params": {
+      "addressLookupTableAddress": "9NPydcR48nh4jZX9QYjDZqHL3Lfsu4TLjAL6bu6Hdf2g",
+      "routingGroup": 3,
+      "swapAccountSize": {
+        "account_compressed_count": 7,
+        "account_len": 9,
+        "account_metas_count": 9
+      }
+    }
+  },
   {
     "pubkey": "4fuUiYxTQ6QCrdSq9ouBYcTM7bqSwYTSyLueGZLTy4T4",
     "owner": "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc",
