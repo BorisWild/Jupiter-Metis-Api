@@ -97,7 +97,7 @@ This JSON file contains 176 DEX markets:
  - USDC-SOL 1
  - USDC-USDT 1
 
-### fd3nMFYTQjX1yr5ER8u7tPdHJB7qt8RpDpNtLQX2Br5 2 markets
+### JupiterRfqV2 2 markets
 `fd3nMFYTQjX1yr5ER8u7tPdHJB7qt8RpDpNtLQX2Br5`
  - USDC-SOL 1
  - USDT-SOL 1
@@ -149,7 +149,7 @@ This JSON file contains 176 DEX markets:
 `6dMXqGZ3ga2dikrYS9ovDXgHGh5RUsb2RTUj6hrQXhk6`
  - USDT-SOL 1
 
-### 9VX8EKBg6vM6tA68xaDsPkbrx26XConZjkQmhVApUptc 1 markets
+### TaurusFi 1 markets
 `9VX8EKBg6vM6tA68xaDsPkbrx26XConZjkQmhVApUptc`
  - USDC-SOL 1
 
@@ -197,7 +197,7 @@ This JSON file contains 176 DEX markets:
 `NUMERUNsFCP3kuNmWZuXtm1AaQCPj9uw6Guv2Ekoi5P`
  - USDC-USDT 1
 
-### omnixgS8fnqHfCcTGKWj6JtKjzpJZ1Y5y9pyFkQDkYE 1 markets
+### Omnipair 1 markets
 `omnixgS8fnqHfCcTGKWj6JtKjzpJZ1Y5y9pyFkQDkYE`
  - USDC-SOL 1
 
