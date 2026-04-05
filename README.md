@@ -95,10 +95,21 @@ This [JSON file](market-cache.json) contains 176 DEX markets:
  - USDC-USDT 1
  - USDT-SOL 1
 
+### GoonFi V2 3 markets
+`goonuddtQRrWqqn5nFyczVKaie28f3kDkHWkHtURSLE`
+ - USDC-SOL 1
+ - USDC-USDT 1
+ - USDT-SOL 1
+
 ### AlphaQ 2 markets
 `ALPHAQmeA7bjrVuccPsYPiCvsi428SNwte66Srvs4pHA`
  - USDC-SOL 1
  - USDC-USDT 1
+
+### BisonFi 2 markets
+`BiSoNHVpsVZW2F7rx2eQ59yQwKxzU5NvBcmKshCSUypi`
+ - USDC-SOL 1
+ - USDT-SOL 1
 
 ### JupiterRfqV2 2 markets
 `fd3nMFYTQjX1yr5ER8u7tPdHJB7qt8RpDpNtLQX2Br5`
@@ -154,6 +165,10 @@ This [JSON file](market-cache.json) contains 176 DEX markets:
 
 ### TaurusFi 1 markets
 `9VX8EKBg6vM6tA68xaDsPkbrx26XConZjkQmhVApUptc`
+ - USDC-SOL 1
+
+### Tessera V 1 markets
+`TessVdML9pBGgG9yGks7o4HewRaXVAMuoVj4x83GLQH`
  - USDC-SOL 1
 
 ### Aldrin 1 markets
