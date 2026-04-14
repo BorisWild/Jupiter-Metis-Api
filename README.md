@@ -1,6 +1,6 @@
 # Market Cache For Jupiter Metis
 
-This is a core part of the custom cache for USDC, USDT, and WSOL arbitrage. You can continue adding more markets, especially if you use intermediate tokens.
+This is a core part of the custom cache for USDC, USDT, and WSOL trading. You can continue adding more markets, especially if you use intermediate tokens.
 This [JSON file](market-cache.json) contains 176 DEX markets:
 
 >[!TIP]
